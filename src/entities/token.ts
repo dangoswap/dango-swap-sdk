@@ -76,7 +76,7 @@ export const WETH = {
   ),
   [ChainId.TESTNET]: new Token(
     ChainId.TESTNET,
-    '0xaE8E19eFB41e7b96815649A6a60785e1fbA84C1e',
+    '0x1de8A5c87d421f53eE4ae398cc766e62E88e9518',
     18,
     'WBNB',
     'Wrapped BNB',
