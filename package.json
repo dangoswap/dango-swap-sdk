@@ -1,8 +1,8 @@
 {
-  "name": "@pancakeswap/sdk",
+  "name": "@dangoswap/sdk",
   "license": "MIT",
-  "version": "2.4.0",
-  "description": "🛠 An SDK for building applications on top of Pancakeswap.",
+  "version": "0.1.0",
+  "description": "🛠 An SDK for building applications on top of Dangoswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
