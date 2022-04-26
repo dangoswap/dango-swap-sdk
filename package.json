@@ -8,10 +8,10 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/pancakeswap/pancake-swap-sdk.git",
+  "repository": "https://github.com/dangoswap/dango-swap-sdk.git",
   "keywords": [
-    "pancakeswap",
-    "bsc"
+    "dangoswap",
+    "bkc"
   ],
   "module": "dist/sdk.esm.js",
   "scripts": {
